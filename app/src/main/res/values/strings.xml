@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PatientInformation</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_data_entry">DataEntry</string>
+    <string name="title_activity_view_data">ViewData</string>
+</resources>
